@@ -1,6 +1,6 @@
 # Crypto Dashboard
 
-A Remix + React cryptocurrency dashboard that displays live exchange rates from the [Coinbase API](https://docs.cloud.coinbase.com/sign-in-with-coinbase/docs/api-exchange-rates), with filtering, drag-and-drop reordering, and optional auto-refresh.
+A Remix + React cryptocurrency dashboard that displays live exchange rates from the [Coinbase API](https://docs.cdp.coinbase.com/exchange/rest-api/requests), with filtering, drag-and-drop reordering, and optional auto-refresh.
 
 ## Features
 
